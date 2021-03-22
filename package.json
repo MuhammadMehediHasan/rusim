@@ -1,0 +1,25 @@
+{
+  "name": "rusim",
+  "version": "1.0.0",
+  "description": "This is a simple NodeJs FrameWork for Drawing Arts in Console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadMehediHasan/rusim.git"
+  },
+  "keywords": [
+    "Art",
+    "Drawing",
+    "Console",
+    "Ascii-Art"
+  ],
+  "author": "Muhammad Mehedi Hasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadMehediHasan/rusim/issues"
+  },
+  "homepage": "https://github.com/MuhammadMehediHasan/rusim#readme"
+}
