@@ -29,7 +29,4 @@ class Line extends coords.Coordinate {
 
 }
 
-
-let myLine = new Line(10, 10, 20, 20);
-
-myLine.draw()
+exports.Line = Line;
